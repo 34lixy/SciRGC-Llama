@@ -1,0 +1,11 @@
+{"current_steps": 50, "total_steps": 28905, "loss": 2.5465, "learning_rate": 9.999929382309924e-05, "epoch": 0.01, "percentage": 0.17, "elapsed_time": "0:02:19", "remaining_time": "22:21:59"}
+{"current_steps": 100, "total_steps": 28905, "loss": 2.1191, "learning_rate": 9.999711141459145e-05, "epoch": 0.01, "percentage": 0.35, "elapsed_time": "0:04:34", "remaining_time": "21:58:23"}
+{"current_steps": 150, "total_steps": 28905, "loss": 2.0855, "learning_rate": 9.99934524815875e-05, "epoch": 0.02, "percentage": 0.52, "elapsed_time": "0:06:48", "remaining_time": "21:43:46"}
+{"current_steps": 200, "total_steps": 28905, "loss": 2.0123, "learning_rate": 9.99883171321437e-05, "epoch": 0.02, "percentage": 0.69, "elapsed_time": "0:09:04", "remaining_time": "21:43:26"}
+{"current_steps": 250, "total_steps": 28905, "loss": 2.0572, "learning_rate": 9.998185221640655e-05, "epoch": 0.03, "percentage": 0.86, "elapsed_time": "0:11:16", "remaining_time": "21:32:13"}
+{"current_steps": 300, "total_steps": 28905, "loss": 1.9896, "learning_rate": 9.997379405184992e-05, "epoch": 0.03, "percentage": 1.04, "elapsed_time": "0:13:05", "remaining_time": "20:47:58"}
+{"current_steps": 350, "total_steps": 28905, "loss": 1.9839, "learning_rate": 9.996426005141005e-05, "epoch": 0.04, "percentage": 1.21, "elapsed_time": "0:14:16", "remaining_time": "19:24:33"}
+{"current_steps": 400, "total_steps": 28905, "loss": 2.0107, "learning_rate": 9.99532504966469e-05, "epoch": 0.04, "percentage": 1.38, "elapsed_time": "0:15:26", "remaining_time": "18:20:43"}
+{"current_steps": 450, "total_steps": 28905, "loss": 1.9635, "learning_rate": 9.994076571269682e-05, "epoch": 0.05, "percentage": 1.56, "elapsed_time": "0:16:35", "remaining_time": "17:28:46"}
+{"current_steps": 500, "total_steps": 28905, "loss": 1.9597, "learning_rate": 9.99268060682629e-05, "epoch": 0.05, "percentage": 1.73, "elapsed_time": "0:17:45", "remaining_time": "16:48:25"}
+{"current_steps": 500, "total_steps": 28905, "eval_loss": 1.9663991928100586, "epoch": 0.05, "percentage": 1.73, "elapsed_time": "0:24:00", "remaining_time": "22:44:04"}
